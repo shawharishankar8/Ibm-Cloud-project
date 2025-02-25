@@ -1,8 +1,5 @@
 # Jupyter Notebook: Analysis Notebook
 
-## Overview
-This Jupyter Notebook is designed for data analysis and processing. It contains code and insights related to the uploaded dataset, enabling exploration, transformation, and visualization of the data.
-
 ## Requirements
 To run this notebook, ensure you have the following dependencies installed:
 - Python 3.x
@@ -32,8 +29,11 @@ To run this notebook, ensure you have the following dependencies installed:
 - Modify parameters as needed based on your specific use case.
 
 ## Author
-- **[Your Name]**
-- Contact: [Your Email]
+- Aneesh M, CAN ID Number: CAN_33507740 
+-  Md. Qamar Raza, CAN ID Number: CAN_33508382 
+- Mohammed Mufeez Ahamed, CAN ID Number: CAN_33796941 
+- Hari Shankar Shaw CAN ID Number: CAN_33538955
+  
 
 ## License
 This project is licensed under the MIT License.
